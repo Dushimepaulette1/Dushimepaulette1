@@ -5,31 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=dushimepaulette1&label=Profile%20Views&color=8e44ad&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ### 🌱 Currently Learning
 - 🚀 **Advanced React Concepts**
 - 🔄 **State Management with Redux**
 - 🌐 **Backend Basics with Node.js**
 
----
-
 ### 📫 How to Reach Me
 - **Email:** [p.dushime1@alustudent.com](mailto:p.dushime1@alustudent.com)
 
----
-
 ### ⚡ Fun Fact
 I’m truly an **introvert** who finds comfort in coding and building creative projects. ✨
-
----
 
 ### ☕ Support Me
 <a href="https://www.buymeacoffee.com/Paulette123" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60" width="217" />
 </a>
-
----
 
 ### 🛠 Languages and Tools
 <p align="center">
@@ -39,8 +29,6 @@ I’m truly an **introvert** who finds comfort in coding and building creative p
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
