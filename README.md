@@ -1,46 +1,52 @@
+<h1 align="center">Hi 👋, I'm Dushime Paulette</h1>
+<h3 align="center">💻 Passionate Software Engineering Student from Rwanda</h3>
 
-<h1 align="center">Hi 👋, I'm Dushime paulette</h1>
-<h3 align="center">A passionate student, Studying software engineering from Rwanda</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushimepaulette1&label=Profile%20views&color=0e75b6&style=flat" alt="dushimepaulette1" /> </p>
-
-- 🌱 I’m currently learning
-**
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js
-**
-
-- 📫 How to reach me **p.dushime1@alustudent.com**
-
-- ⚡ Fun fact **I am truly an intovert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dushimepaulette1&label=Profile%20Views&color=8e44ad&style=flat" alt="Profile Views" />
 </p>
-<a href="https://www.buymeacoffee.com/Paulette123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<h3 align="left">Languages and Tools:</h3>
-- Html
-- CSS
-- Javascript
-- React
-- 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushimepaulette1&show_icons=true&locale=en&layout=compact" alt="dushimepaulette1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushimepaulette1&" alt="dushimepaulette1" /></p>
+### 🌱 Currently Learning
+- 🚀 **Advanced React Concepts**
+- 🔄 **State Management with Redux**
+- 🌐 **Backend Basics with Node.js**
 
-<!--
-**Dushimepaulette1/Dushimepaulette1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+- **Email:** [p.dushime1@alustudent.com](mailto:p.dushime1@alustudent.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Fun Fact
+I’m truly an **introvert** who finds comfort in coding and building creative projects. ✨
+
+---
+
+### ☕ Support Me
+<a href="https://www.buymeacoffee.com/Paulette123" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60" width="217" />
+</a>
+
+---
+
+### 🛠 Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dushimepaulette1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushimepaulette1&theme=tokyonight" alt="GitHub Streak" />
+</p>
