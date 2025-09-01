@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushimepaulette1&label=Profile%20views&color=0e75b6&style=flat" alt="dushimepaulette1" /> </p>
 
-- 🌱 I’m currently learning **Html, Css, Javascript and react**
+- 🌱 I’m currently learning
+**
+- Advanced React concepts
+- State management with Redux
+- Backend basics with Node.js
+**
 
 - 📫 How to reach me **p.dushime1@alustudent.com**
 
