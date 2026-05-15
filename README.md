@@ -15,6 +15,7 @@ I am a growing software engineer who loves building clean, user-friendly web and
 ### Connect with me
 - **Email:** [p.dushime12@gmail.com](mailto:p.dushime12@gmail.com)
 - **LinkedIn:** [Paulette Dushime](https://www.linkedin.com/in/paulette-dushime-1581bb319/)
+-  **Personal Portfolio:** [Paulette Dushime](https://my-resume-dushime-paulette.netlify.app/)
 
 ### Fun Fact
 I am an introvert who finds comfort in writing code and bringing creative ideas to life.
